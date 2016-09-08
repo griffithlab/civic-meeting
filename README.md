@@ -5,13 +5,15 @@ This repository is being used to organize pre-meeting suggestions for the CIViC 
 
 ## Variant Curation Jamboree
 
-Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the **Curation**. To propose a curation topic, visit the [Issues page.](https://github.com/genome/civic-meeting/issues). 
+Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the **Curation**. To propose a curation topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues). 
+
 1. Select **New Issue**
 2. Create a title and description for your issue
 3. Choose the **Curation** label for your issue
 
 ## Hackathon
-Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the **Hackathon**. To propose a hackathon topic, visit the [Issues page.](https://github.com/genome/civic-meeting/issues). 
+Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the **Hackathon**. To propose a hackathon topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues). 
+
 1. Select **New Issue**
 2. Create a title and description for your issue
 3. Choose the **Hackathon** label for your issue
