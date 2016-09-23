@@ -12,7 +12,7 @@ Molecular biologists, Pathologists and Oncologists (certified or in training), a
 3. Choose the **Curation** label for your issue
 
 ## Hackathon
-Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the **Hackathon**. To propose a hackathon topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues). For a quick-start guide on developing for CIViC, see our [wiki](https://github.com/genome/civic-server/wiki/Getting-Started-with-CIViC-Development-on-AWS).
+Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the **Hackathon**. For a quick-start guide on developing for CIViC, see our [wiki](https://github.com/genome/civic-server/wiki/Getting-Started-with-CIViC-Development-on-AWS). To propose a hackathon topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues).
 
 1. Select **New Issue**
 2. Create a title and description for your issue
