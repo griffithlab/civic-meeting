@@ -1,7 +1,7 @@
 # CIViC Variant Curation Jamboree and Hackathon
 ## Advancing Cancer Precision Medicine with Community Collaboration
 
-This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place after the NGS in Molecular Pathology Symposium. Hosted at the Netherlands Cancer Institute, December 1-2, 2016, the Jamboree/Hackathon will focus on further development of CIViC, an open access, open source, community-driven web resource for Clinical Interpretations of Variants in Cancer.
+This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place before the ASHG annual meeting. Hosted at the Scripts, October 10-11, 2018, the Jamboree/Hackathon will focus on further development of CIViC, an open access, open source, community-driven web resource for Clinical Interpretations of Variants in Cancer.
 
 ## Variant Curation Jamboree
 
