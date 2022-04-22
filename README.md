@@ -1,7 +1,7 @@
 # Cancer Variant Interpretation Hackathon and Curation Jamboree
 ## Advancing Cancer Precision Medicine with Community Collaboration
 
-This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place before the ASHG annual meeting. Hosted at the Scripps Research Institute in La Jolla, October 15-16, 2018, the Jamboree/Hackathon will focus on further development of CIViC, an open access, open source, community-driven web resource for Clinical Interpretations of Variants in Cancer.
+This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place before the CGC annual meeting. Hosted at Washington University in St. Louis, July 30th, 2022, the Jamboree/Hackathon will focus on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer.
 
 ## Variant Curation Jamboree
 
