@@ -1,7 +1,7 @@
 # Cancer Variant Interpretation Hackathon and Curation Jamboree
 ## Advancing Cancer Precision Medicine with Community Collaboration
 
-This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place before the CGC annual meeting. Hosted at Washington University in St. Louis, July 30th, 2022, the Jamboree/Hackathon will focus on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer.
+This repository is being used to organize pre-meeting suggestions for the CIViC Variation Curation Jamboree and Hackathon, taking place before the CGC annual meeting. Hosted at Washington University in St. Louis, July 30th, 2022, the Jamboree/Hackathon will focus on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer. [Register here](https://eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-48287431006)
 
 ## Variant Curation Jamboree
 
