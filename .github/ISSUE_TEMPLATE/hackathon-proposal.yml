@@ -1,7 +1,7 @@
 name: Hackathon Project Proposal
 description: Project proposal for the Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Hackathon
 title: "[Hackathon project title]"
-labels: ["2023", "Hackathon"]
+labels: ["2023", "hackathon"]
 
 body:
   - type: input
