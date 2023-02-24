@@ -1,7 +1,7 @@
 name: Curation Project Proposal
 description: Project proposal for the Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Curation Jamboree
 title: "[Curation project title]"
-labels: ["2023", "Curation"]
+labels: ["2023", "curation"]
 
 body:
   - type: input
