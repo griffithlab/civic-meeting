@@ -1,0 +1,43 @@
+name: Curation Project Proposal
+description: Project proposal for the Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Curation Jamboree
+title: "[Curation project title]"
+labels: ["2023", "Curation"]
+
+body:
+  - type: input
+    id: submitter_name
+    attributes:
+      label: Submitter Name
+      placeholder: John Doe
+    validations:
+      required: true
+  - type: input
+    id: submitter_affiliation
+    attributes:
+      label: Submitter Affiliation
+      placeholder: ABC Institution
+    validations:
+      required: true
+  - type: input
+    id: submitter_githubid
+    attributes:
+      label: Submitter Github Handle
+      placeholder: johndoe999
+    validations:
+      required: false
+  - type: textarea
+    id: submitter_additional
+    attributes:
+      label: Additional Submitter Details
+  - type: textarea
+    id: project_details
+    attributes:
+      label: Project Details
+      description: Discuss what the project intends to accomplish and how it promotes the standardization and dissemination of knowledge of the clinical significance of cancer
+    validations:
+      required: true
+  - type: textarea
+    id: required_knowledge
+    attributes:
+      label: Required Knowledge
+      description: List any skill set necessary or beneficial for participants to contribute to the project, e.g. fusions, SNVs, CNVs
