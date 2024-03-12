@@ -6,7 +6,7 @@ This repository is being used to organize pre-meeting suggestions for the VICC, 
 
 Registration can be found [here](https://www.cancergenomics.org/meetings/registration.php).
 
-## Curation
+## Variant Curation
 
 Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the **Curation**. To propose a curation topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues).
 
