@@ -1,11 +1,12 @@
-# Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Hackathon and Curation Jamboree
+# VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference
+
 ## Advancing Cancer Precision Medicine with Community Collaboration
 
-This repository is being used to organize pre-meeting suggestions for the Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Hackathon and Curation Jamboree, taking place before the 2023 CGC annual meeting. Hosted at the CGC meeting in St. Louis, August 12th, 2023, the Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer.
+This repository is being used to organize pre-meeting suggestions for the VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference, taking place before the 2024 CGC annual meeting. Hosted at the CGC meeting in St. Louis, August 3rd, 2024, the Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer.
 
-Registration details coming soon
+Registration can be found [here](https://www.cancergenomics.org/meetings/registration.php).
 
-## Variant Curation Jamboree
+## Variant Curation
 
 Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the **Curation**. To propose a curation topic, visit the [Issues page](https://github.com/genome/civic-meeting/issues).
 
@@ -14,11 +15,11 @@ Molecular biologists, Pathologists and Oncologists (certified or in training), a
 3. Create a title and description for your issue
 4. Fill out the fields in the form
 
-## Hackathon
-Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the **Hackathon**. To propose a hackathon topic, visit the [Issues page](https://github.com/griffithlab/civic-meeting/issues).
+## Coding
+
+Software developers, engineers and computational biologists interested in learning and applying back-end and front-end web development skills should submit topics for the **Coding**. To propose a coding topic, visit the [Issues page](https://github.com/griffithlab/civic-meeting/issues).
 
 1. Select **New Issue**
-2. Select **Hackathon Project Proposal**
+2. Select **Coding Project Proposal**
 3. Create a title and description for your issue
 4. Fill out the fields in the form
-
