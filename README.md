@@ -2,7 +2,7 @@
 
 ## Advancing Cancer Precision Medicine with Community Collaboration
 
-This repository is being used to organize pre-meeting suggestions for the VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference, taking place before the 2024 CGC annual meeting. Hosted at the CGC meeting in St. Louis, August 3rd, 2024, the Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer.
+This repository is being used to organize pre-meeting suggestions for the VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference, taking place before the 2025 CGC annual meeting. Hosted at the CGC meeting in Houston, August 2nd, 2025, the Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer.
 
 Registration can be found [here](https://www.cancergenomics.org/meetings/registration.php).
 
