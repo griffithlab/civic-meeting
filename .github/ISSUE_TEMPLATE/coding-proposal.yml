@@ -1,7 +1,7 @@
 name: Coding Project Proposal
 description: "VICC, CGC, CIViC, & ClinGen Somatic: Coding"
 title: "[Coding project title]"
-labels: ["2024", "coding"]
+labels: ["2025", "coding"]
 
 body:
   - type: input

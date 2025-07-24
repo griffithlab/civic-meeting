@@ -1,7 +1,7 @@
 name: Curation Project Proposal
 description: "Project proposal for the VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation"
 title: "[Curation project title]"
-labels: ["2024", "curation"]
+labels: ["2025", "curation"]
 
 body:
   - type: input
